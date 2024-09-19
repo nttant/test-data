@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "user_id": "broker1",
+      "role": "Broker"
+    },
+    {
+      "user_id": "manager1",
+      "role": "Manager"
+    }
+  ]
+}
