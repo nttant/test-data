@@ -2,127 +2,52 @@
   {
     "uid": {
       "type": "User",
-      "id": "andrew"
+      "id": "Stephen"
     },
     "attrs": {},
     "parents": [
       {
-        "type": "Application",
-        "id": "TinyTodo"
-      },
-      {
-        "type": "Team",
-        "id": "temp"
-      },
-      {
-        "type": "Team",
-        "id": "admin"
-      }
-    ]
-  },
-  {
-    "uid": {
-      "type": "Team",
-      "id": "temp"
-    },
-    "attrs": {},
-    "parents": [
-      {
-        "type": "Application",
-        "id": "TinyTodo"
+        "type": "Role",
+        "id": "Evo-Admin"
       }
     ]
   },
   {
     "uid": {
       "type": "User",
-      "id": "aaron"
+      "id": "Rob"
     },
     "attrs": {},
     "parents": [
       {
-        "type": "Application",
-        "id": "TinyTodo"
-      },
-      {
-        "type": "Team",
-        "id": "interns"
-      },
-      {
-        "type": "Team",
-        "id": "temp"
-      }
-    ]
-  },
-  {
-    "uid": {
-      "type": "Application",
-      "id": "TinyTodo"
-    },
-    "attrs": {},
-    "parents": []
-  },
-  {
-    "uid": {
-      "type": "Team",
-      "id": "admin"
-    },
-    "attrs": {},
-    "parents": [
-      {
-        "type": "Application",
-        "id": "TinyTodo"
+        "type": "Role",
+        "id": "Evo-Editor"
       }
     ]
   },
   {
     "uid": {
       "type": "User",
-      "id": "kesha"
+      "id": "Anthony"
     },
     "attrs": {},
     "parents": [
       {
-        "type": "Application",
-        "id": "TinyTodo"
-      },
-      {
-        "type": "Team",
-        "id": "temp"
-      }
-    ]
-  },
-  {
-    "uid": {
-      "type": "Team",
-      "id": "interns"
-    },
-    "attrs": {},
-    "parents": [
-      {
-        "type": "Application",
-        "id": "TinyTodo"
-      },
-      {
-        "type": "Team",
-        "id": "temp"
+        "type": "Role",
+        "id": "Evo-Viewer"
       }
     ]
   },
   {
     "uid": {
       "type": "User",
-      "id": "emina"
+      "id": "Bob"
     },
     "attrs": {},
     "parents": [
       {
-        "type": "Application",
-        "id": "TinyTodo"
-      },
-      {
-        "type": "Team",
-        "id": "admin"
+        "type": "Role",
+        "id": "Evo-Intern"
       }
     ]
   }
